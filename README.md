@@ -59,7 +59,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado pelo impacto que a tecnologia tem
 
 Estou sempre aberto a novas conexões! Tenho interesse especial em projetos **Open Source**, oportunidades de **Freelance** e troca de conhecimentos através de **Mentoria**.
 
-Se você quer falar sobre **Backend**, **Cybersecurity**, **IA** ou **Nuvem**, me mande uma mensagem!
+Se você quer falar sobre **Backend**, **Cybersecurity**, **IA** ou **Nuvem**, me mande uma mensagem seria legal falar com você!
 
 <div align="center">
   <sub>Construindo o futuro, uma linha de código (e um prompt) por vez.</sub>
