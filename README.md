@@ -18,7 +18,7 @@
 
 Sou um **Desenvolvedor Full Stack** em formação e apaixonado por inovação. Atualmente, atuo como estagiário explorando como a **Inteligência Artificial** pode otimizar o desenvolvimento de software.
 
-Meu foco principal hoje é aprender a criar **integrações de sistemas** eficientes e aprofundar meus conhecimentos em Backend. Não uso IA para gerar código, mas para acelerar meu aprendizado e entender melhores arquiteturas, tomar decições melhores e entregar com qualidade!
+Meu foco principal hoje é aprender a criar **integrações de sistemas** eficientes e aprofundar meus conhecimentos em Backend. Não uso IA para gerar código, mas para acelerar meu aprendizado e entender melhores arquiteturas, tomar decisões melhores e entregar com qualidade!
 
 * 📍 **Base:** São Paulo, Brasil.
 * 🔭 **Estudando:** Aprofundando em **Backend (Node.js)**, **APIs (REST & GraphQL)** e SQL.
